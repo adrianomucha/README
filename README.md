@@ -1,10 +1,17 @@
-# ⚡️ Adrian Mucha
+Hey, I'm Adrian
+Product Designer building AI products at Meta. Previously at Amazon and Microsoft.
+I design interfaces, products, and systems — working closely with engineers, researchers, and fellow designers to create intuitive experiences from early concepts to high-fidelity prototypes. On the side, I like to build things with code.
+What I'm building
 
-Hi, welcome to my GitHub profile! I am a Software Designer – currently working at Meta.
+Logbook Fit — A fitness tracking app built with TypeScript
+PoolPal — Platform for pool service management
+Nest Scout — TypeScript tool for apartment/housing search
+PDF Pixie Sizer — Lightweight PDF compression utility
 
-I design interfaces, products, and systems. 
-I work closely with engineers, researchers, and fellow designers to create intuitive and polished experiences, from early concepts to high-fidelity prototypes.
+Tools & tech I work with
+Figma TypeScript React Next.js JavaScript Node.js Tailwind CSS Framer
+Get in touch
 
-## Get in touch
-- Personal Space on the Internets → [https://adrianmucha.us](https://adrianmucha.us)
-- Thoughts on Twitter → [https://twitter.com//AdrianFruitbat](https://twitter.com/AdrianFruitbat)
+Portfolio — adrianmucha.us
+X — @AdrianFruitbat
+Location — Los Angeles, CA
